@@ -1,5 +1,7 @@
 # Deep-learning-Introduction
 > 딥러닝 학습과 관련한 코드 저장소
+> 
+> [Notion](https://hyss.notion.site/Deeplearning-Introductory-4527fa60e887420291644c5e6869c77e?pvs=4)
 
 
 </br>
